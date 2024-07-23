@@ -3,15 +3,8 @@
     {
       "name": "Unknown Server",
       "motd": "\u00A7a\u00A7lLegendZ  - \u00A74\u00A7lRU - EU \u00A7e\u00A7l[CRACKED\u00A7e] \u00A7eCUSTOM TRADERS and More content",
-      "ip": "142.132.250.32",
-      "port": 21043,
-      "mapName": "world"
-    },
-    {
-      "name": "Unknown Server",
-      "motd": "\u00A7a\u00A7lLegendZ  - \u00A74\u00A7lRU - EU \u00A7e\u00A7l[CRACKED\u00A7e] \u00A7eCUSTOM TRADERS and More content",
-      "ip": "free.joinserver.xyz",
-      "port": 25851,
+      "ip": "legendz.joinserver.xyz",
+      "port": 25848,
       "mapName": "world"
     }
   ]
