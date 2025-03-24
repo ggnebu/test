@@ -1,4 +1,19 @@
-{"releases":[
-  {"1.21.10f","турум"}
+{
+  "releases": [
+    [
+      "1.10.7",
+      "Added new features, fixed critical bugs, improved performance",
+      "2023-05-15"
+    ],
+    [
+      "1.10.6",
+      "Minor bug fixes and optimizations",
+      "2023-04-10"
+    ],
+    [
+      "1.10.5",
+      "Initial release for Minecraft 1.10",
+      "2023-03-01"
+    ]
   ]
 }
