@@ -1,19 +1,7 @@
 {
   "releases": [
-    [
-      "1.10.7",
-      "Added new features, fixed critical bugs, improved performance",
-      "2023-05-15"
-    ],
-    [
-      "1.10.6",
-      "Minor bug fixes and optimizations",
-      "2023-04-10"
-    ],
-    [
-      "1.10.5",
-      "Initial release for Minecraft 1.10",
-      "2023-03-01"
-    ]
+    ["1.22.05a", "https://github.com/.../Decimation-1.22.05a.jar", "Новые предметы и исправления"],
+    ["1.21.10f", "https://github.com/.../Decimation-1.21.10f.jar", "Оптимизация производительности"],
+    ["1.20.8e", "https://github.com/.../Decimation-1.20.8e.jar", "Добавлены новые карты"]
   ]
 }
