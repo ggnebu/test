@@ -1,7 +1,5 @@
 {
   "releases": [
-    ["1.22.05a", "https://github.com/ggnebu/test/raw/refs/heads/main/deci-revival_edited2.jar", "Новые предметы и исправления"],
-    ["1.21.10f", "https://github.com/.../Decimation-1.21.10f.jar", "Оптимизация производительности"],
-    ["1.20.8e", "https://github.com/.../Decimation-1.20.8e.jar", "Добавлены новые карты"]
+    ["1.21.11B","https://dl.dropboxusercontent.com/scl/fi/oohuimqezwiqzdwyq3hj3/Decimation5.1.jar?rlkey=ka1lylwftz64xy5vfrpwttcjo&st=mudqzxkr", "Бета"]
   ]
 }
