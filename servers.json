@@ -13,13 +13,6 @@
       "ip": "localhost",
       "port": 25565,
       "mapName": "world"
-    },
-    {
-      "name": "Unknown Server",
-      "motd": "Your local server",
-      "ip": "localhost",
-      "port": 25565,
-      "mapName": "bukovka"
     }
   ]
 }
