@@ -16,7 +16,7 @@
     },
     {
       "name": "Unknown Server",
-      "motd": "pipega server",
+      "motd": "pipega radmin server",
       "ip": "26.108.105.42",
       "port": 25565,
       "mapName": "world"
