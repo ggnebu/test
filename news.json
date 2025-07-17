@@ -1,0 +1,30 @@
+{
+  "news": [
+    {
+      "content": [
+        {
+          "langKeys": [
+            "ru_RU",
+            "az_AZ",
+            "ge_GE",
+            "lt_LT",
+            "lv_LV",
+            "ee_EE",
+            "be_BY"
+          ],
+          "title": "Добро прожаловать",
+          "text": "В новый LZ-Reborn!"
+        },
+        {
+          "langKeys": [
+            "en_US"
+          ],
+          "title": "Welcome to LZ: Reborn",
+          "text": "Feel free to see new things..."
+        }
+      ],
+      "url": "https://google.com/",
+      "imageUrl": "https://kreyegon.7m.pl/news1.png"
+    }
+  ]
+}
