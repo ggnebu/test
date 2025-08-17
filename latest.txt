@@ -1,1 +1,1 @@
-testver
+beta0.1addon
