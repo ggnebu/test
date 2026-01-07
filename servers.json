@@ -1,23 +1,10 @@
 {
   "servers": [
-    {
-      "name": "Unknown Server",
-      "motd": "\u00A7a\u00A7lLegendZ  - \u00A74\u00A7lRU - EU \u00A7e\u00A7l[CRACKED\u00A7e] \u00A7eCUSTOM TRADERS and More content",
-      "ip": "legendz.joinserver.xyz",
-      "port": 25565,
-      "mapName": "world"
-    },
+   
     {
       "name": "Unknown Server",
       "motd": "Yours local server",
       "ip": "127.0.0.1",
-      "port": 25565,
-      "mapName": "world"
-    },
-    {
-      "name": "Unknown Server",
-      "motd": "pipega radmin server",
-      "ip": "26.108.105.42",
       "port": 25565,
       "mapName": "world"
     }
