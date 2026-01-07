@@ -9,7 +9,7 @@
     },
     {
       "name": "Unknown Server",
-      "motd": "Your local server",
+      "motd": "Yours local server",
       "ip": "localhost",
       "port": 25565,
       "mapName": "world"
