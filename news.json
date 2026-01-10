@@ -1,6 +1,6 @@
 {
   "news": [
-   # {
+   // {
     //  "content": [
     //    {
      //     "langKeys": [
@@ -21,8 +21,8 @@
        //   ],
        //   "title": "Welcome to LZ: Reborn",
      //     "text": "Feel free to see new things..."
-     //   }
-  //    ],
+          //}
+      //],
   //    "url": "https://google.com/",
   //    "imageUrl": "https://raw.githubusercontent.com/ggnebu/test/refs/heads/main/news2.png"
 //    },
